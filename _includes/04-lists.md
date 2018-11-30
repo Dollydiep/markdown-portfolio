@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. ice cream
+2. food
+3. traveling
+4. netflix
